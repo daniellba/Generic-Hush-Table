@@ -1,7 +1,4 @@
-/*
-Tomer Maalumi,
-203284872
-*/
+
 #include "GenericHashTable.h"
 
 #include <stdio.h>
