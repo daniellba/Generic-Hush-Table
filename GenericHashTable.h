@@ -1,7 +1,4 @@
-/*
-* Tomer Maalumi,
-*   203284872
-*/
+
 
 #ifndef _GENERIC_HASH_TABLE_H
 #define _GENERIC_HASH_TABLE_H
